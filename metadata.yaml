@@ -1,0 +1,52 @@
+_repo: The-evolution-of-climate_72714
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Simpson, G. C. (George Clarke), Sir
+    alias: Simpson, George Clarke, Sir
+    birthdate: 1878
+    deathdate: 1965
+    gutenberg_agent_id: '56768'
+    url: http://www.gutenberg.org/2009/agents/56768
+    wikipedia: https://en.wikipedia.org/wiki/George_Simpson_(meteorologist)
+creator:
+  author:
+    agent_name: Brooks, C. E. P. (Charles Ernest Pelham)
+    alias: Brooks, Charles Ernest Pelham
+    gutenberg_agent_id: '56784'
+    url: http://www.gutenberg.org/2009/agents/56784
+description: ''
+gutenberg_issued: '2024-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72714'
+  lccn: '23008108'
+language: en
+pgterms:marc904: https://archive.org/details/evolutionofclima00broouoft
+pgterms:marc905: 20201103062621brooks
+pgterms:marc906: '1922'
+pgterms:marc907: UK
+production_note: Turgut Dincer, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bBenn Brothers, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Climatology'
+- !lcsh 'Paleoclimatology'
+- !lcc 'QC'
+- GITenberg
+tableOfContents: 'Factors of climate and the causes of climatic fluctuations -- The
+  climatic record as a whole -- Conditions before the Quaternary Ice Age -- The Great
+  Ice Age -- The glacial history of Northern and Central Europe -- The Mediterranean
+  regions during the Glacial period -- Asia during the Glacial period -- The glacial
+  history of North America -- Central and South America -- Africa -- Australia and
+  New Zealand -- The glaciation of Antarctica -- The close of the Ice Age: the continental
+  phase -- The post-glacial optimum of climate -- The forest period of Western Europe
+  -- The "classical" rainfall maximum, 1800 B.C. to A.D. 500 -- The climatic fluctuations
+  since A.D. 500 -- Climatic fluctuations and the evolution of man -- Climate and
+  history.'
+title: The evolution of climate
+url: http://www.gutenberg.org/ebooks/72714
