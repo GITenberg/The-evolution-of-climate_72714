@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '56768'
     url: http://www.gutenberg.org/2009/agents/56768
     wikipedia: https://en.wikipedia.org/wiki/George_Simpson_(meteorologist)
+covers:
+- cover_type: archival
+  image_path: 72714-h/images/cover.jpg
 creator:
   author:
     agent_name: Brooks, C. E. P. (Charles Ernest Pelham)
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '56784'
     url: http://www.gutenberg.org/2009/agents/56784
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72714#The-evolution-of-climate
 gutenberg_issued: '2024-01-14'
 gutenberg_type: Text
 identifiers:
